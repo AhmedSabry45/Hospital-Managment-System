@@ -28,3 +28,18 @@ D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\
 D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.pdb
 D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.genruntimeconfig.cache
 D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\ref\HMS.Domain.dll
+G:\Hospital-Managment-System\HMS.Core\bin\Debug\net9.0\HMS.Domain.deps.json
+G:\Hospital-Managment-System\HMS.Core\bin\Debug\net9.0\HMS.Domain.runtimeconfig.json
+G:\Hospital-Managment-System\HMS.Core\bin\Debug\net9.0\HMS.Domain.dll
+G:\Hospital-Managment-System\HMS.Core\bin\Debug\net9.0\HMS.Domain.pdb
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.csproj.AssemblyReference.cache
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.AssemblyInfoInputs.cache
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.AssemblyInfo.cs
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.csproj.CoreCompileInputs.cache
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.sourcelink.json
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.dll
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\refint\HMS.Domain.dll
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.pdb
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.genruntimeconfig.cache
+G:\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\ref\HMS.Domain.dll

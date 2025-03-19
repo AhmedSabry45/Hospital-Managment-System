@@ -11395,23 +11395,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Moustafa Darweesh\\.nuget\\packages\\": {},
+    "C:\\Users\\Ahmed\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_CODE___\\Projects\\HMS v1\\Hospital-Managment-System\\HMS.APIs\\HMS.APIs.csproj",
+      "projectUniqueName": "G:\\Hospital-Managment-System\\HMS.APIs\\HMS.APIs.csproj",
       "projectName": "HMS.APIs",
-      "projectPath": "D:\\_CODE___\\Projects\\HMS v1\\Hospital-Managment-System\\HMS.APIs\\HMS.APIs.csproj",
-      "packagesPath": "C:\\Users\\Moustafa Darweesh\\.nuget\\packages\\",
-      "outputPath": "D:\\_CODE___\\Projects\\HMS v1\\Hospital-Managment-System\\HMS.APIs\\obj\\",
+      "projectPath": "G:\\Hospital-Managment-System\\HMS.APIs\\HMS.APIs.csproj",
+      "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
+      "outputPath": "G:\\Hospital-Managment-System\\HMS.APIs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Moustafa Darweesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11420,20 +11420,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\_CODE___\\Projects\\HMS v1\\Hospital-Managment-System\\HMS.Core\\HMS.Domain.csproj": {
-              "projectPath": "D:\\_CODE___\\Projects\\HMS v1\\Hospital-Managment-System\\HMS.Core\\HMS.Domain.csproj"
+            "G:\\Hospital-Managment-System\\HMS.Core\\HMS.Domain.csproj": {
+              "projectPath": "G:\\Hospital-Managment-System\\HMS.Core\\HMS.Domain.csproj"
             },
-            "D:\\_CODE___\\Projects\\HMS v1\\Hospital-Managment-System\\HMS.Repositories\\HMS.Infrastructure.csproj": {
-              "projectPath": "D:\\_CODE___\\Projects\\HMS v1\\Hospital-Managment-System\\HMS.Repositories\\HMS.Infrastructure.csproj"
+            "G:\\Hospital-Managment-System\\HMS.Repositories\\HMS.Infrastructure.csproj": {
+              "projectPath": "G:\\Hospital-Managment-System\\HMS.Repositories\\HMS.Infrastructure.csproj"
             },
-            "D:\\_CODE___\\Projects\\HMS v1\\Hospital-Managment-System\\HMS.Services\\HMS.Application.csproj": {
-              "projectPath": "D:\\_CODE___\\Projects\\HMS v1\\Hospital-Managment-System\\HMS.Services\\HMS.Application.csproj"
+            "G:\\Hospital-Managment-System\\HMS.Services\\HMS.Application.csproj": {
+              "projectPath": "G:\\Hospital-Managment-System\\HMS.Services\\HMS.Application.csproj"
             }
           }
         }
