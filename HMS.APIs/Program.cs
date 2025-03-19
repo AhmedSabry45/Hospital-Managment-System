@@ -23,6 +23,8 @@ if (app.Environment.IsDevelopment())
 
 }
 
+// Test 
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
