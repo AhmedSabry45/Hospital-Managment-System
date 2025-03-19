@@ -1,0 +1,32 @@
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\bin\Debug\net9.0\HMS.Infrastructure.deps.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\bin\Debug\net9.0\HMS.Infrastructure.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\bin\Debug\net9.0\HMS.Infrastructure.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\bin\Debug\net9.0\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\bin\Debug\net9.0\HMS.Domain.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.csproj.AssemblyReference.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.AssemblyInfoInputs.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.AssemblyInfo.cs
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.sourcelink.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\HMS.Infr.D1046C3A.Up2Date
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\refint\HMS.Infrastructure.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Repositories\obj\Debug\net9.0\ref\HMS.Infrastructure.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\bin\Debug\net9.0\HMS.Infrastructure.deps.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\bin\Debug\net9.0\HMS.Infrastructure.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\bin\Debug\net9.0\HMS.Infrastructure.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\bin\Debug\net9.0\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\bin\Debug\net9.0\HMS.Domain.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.csproj.AssemblyReference.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.AssemblyInfoInputs.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.AssemblyInfo.cs
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.sourcelink.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\HMS.Infr.D1046C3A.Up2Date
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\refint\HMS.Infrastructure.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\HMS.Infrastructure.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Repositories\obj\Debug\net9.0\ref\HMS.Infrastructure.dll

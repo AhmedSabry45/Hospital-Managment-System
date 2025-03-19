@@ -1,0 +1,30 @@
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\bin\Debug\net9.0\HMS.Domain.deps.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\bin\Debug\net9.0\HMS.Domain.runtimeconfig.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\bin\Debug\net9.0\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\bin\Debug\net9.0\HMS.Domain.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\HMS.Domain.csproj.AssemblyReference.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\HMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\HMS.Domain.AssemblyInfoInputs.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\HMS.Domain.AssemblyInfo.cs
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\HMS.Domain.csproj.CoreCompileInputs.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\HMS.Domain.sourcelink.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\refint\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\HMS.Domain.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\HMS.Domain.genruntimeconfig.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.Core\obj\Debug\net9.0\ref\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\bin\Debug\net9.0\HMS.Domain.deps.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\bin\Debug\net9.0\HMS.Domain.runtimeconfig.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\bin\Debug\net9.0\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\bin\Debug\net9.0\HMS.Domain.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.csproj.AssemblyReference.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.AssemblyInfoInputs.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.AssemblyInfo.cs
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.csproj.CoreCompileInputs.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.sourcelink.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\refint\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\HMS.Domain.genruntimeconfig.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.Core\obj\Debug\net9.0\ref\HMS.Domain.dll

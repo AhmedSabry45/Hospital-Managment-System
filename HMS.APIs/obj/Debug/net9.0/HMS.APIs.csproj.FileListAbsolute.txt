@@ -1,0 +1,436 @@
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\appsettings.Development.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\appsettings.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.APIs.staticwebassets.endpoints.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.APIs.exe
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.APIs.deps.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.APIs.runtimeconfig.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.APIs.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.APIs.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Azure.Core.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Azure.Identity.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\FluentValidation.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Humanizer.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\LinqKit.Core.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\MediatR.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\MediatR.Contracts.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Net.Http.Formatting.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\MS.TF.Pipelines.WebApi.NetStandard.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Azure.DevOps.Comments.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Azure.Pipelines.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Build2.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Core.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Policy.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Test.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Wiki.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Work.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Common.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.VisualStudio.Services.Common.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.VisualStudio.Services.WebApi.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.ClientModel.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.CodeDom.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Memory.Data.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Text.Json.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\System.Xml.XPath.XmlDocument.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.Application.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.Infrastructure.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.Domain.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.Infrastructure.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\bin\Debug\net9.0\HMS.Application.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.csproj.AssemblyReference.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.AssemblyInfoInputs.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.AssemblyInfo.cs
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.csproj.CoreCompileInputs.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.sourcelink.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\scopedcss\bundle\HMS.APIs.styles.css
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets.build.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets.development.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.HMS.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.HMS.APIs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.build.HMS.APIs.props
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.HMS.APIs.props
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.HMS.APIs.props
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets.pack.json
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.csproj.Up2Date
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\refint\HMS.APIs.dll
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.pdb
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\HMS.APIs.genruntimeconfig.cache
+D:\_CODE___\Projects\HMS v1\old api\HMS-erp\HMS.APIs\obj\Debug\net9.0\ref\HMS.APIs.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\appsettings.Development.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\appsettings.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.APIs.staticwebassets.endpoints.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.APIs.exe
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.APIs.deps.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.APIs.runtimeconfig.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.APIs.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.APIs.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Azure.Core.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Azure.Identity.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\FluentValidation.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Humanizer.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\LinqKit.Core.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\MediatR.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\MediatR.Contracts.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Net.Http.Formatting.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\MS.TF.Pipelines.WebApi.NetStandard.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Azure.DevOps.Comments.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Azure.Pipelines.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Build2.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Core.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Policy.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Test.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Wiki.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Work.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.TeamFoundation.Common.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.VisualStudio.Services.Common.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.VisualStudio.Services.WebApi.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.ClientModel.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.CodeDom.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Memory.Data.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Text.Json.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\System.Xml.XPath.XmlDocument.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.Application.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.Domain.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.Infrastructure.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.Domain.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.Infrastructure.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\HMS.Application.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.csproj.AssemblyReference.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.AssemblyInfoInputs.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.AssemblyInfo.cs
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.csproj.CoreCompileInputs.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.sourcelink.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\scopedcss\bundle\HMS.APIs.styles.css
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets.build.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets.development.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.HMS.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.HMS.APIs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.build.HMS.APIs.props
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.HMS.APIs.props
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.HMS.APIs.props
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets.pack.json
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.csproj.Up2Date
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\refint\HMS.APIs.dll
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.pdb
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.genruntimeconfig.cache
+D:\_CODE___\Projects\HMS v1\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\ref\HMS.APIs.dll
