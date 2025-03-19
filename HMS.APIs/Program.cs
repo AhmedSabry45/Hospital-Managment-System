@@ -1,6 +1,5 @@
 using HMS.APIs.Extensions;
 using HMS.Application.Features.Auth.Queries.Login;
-using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
