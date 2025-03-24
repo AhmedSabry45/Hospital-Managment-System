@@ -868,3 +868,5 @@ D:\Career\Hospital-MS\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\refint
 D:\Career\Hospital-MS\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.pdb
 D:\Career\Hospital-MS\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\HMS.APIs.genruntimeconfig.cache
 D:\Career\Hospital-MS\Hospital-Managment-System\HMS.APIs\obj\Debug\net9.0\ref\HMS.APIs.dll
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Mapster.dll
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.APIs\bin\Debug\net9.0\Mapster.Core.dll

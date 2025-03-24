@@ -24,9 +24,9 @@ namespace HMS.Domain.Repositories.Contract
         Task<bool> AnyAsync(Expression<Func<T, bool>> predicate, CancellationToken cancellationToken = default);
 
 
-        void Add(T entity);
+        Task AddAsync(T entity, CancellationToken cancellationToken = default);
         void Update(T entity);
         void Delete(T entity);
-        Task AddRange(IEnumerable<T> entities);
+        Task AddRangeAsync(IEnumerable<T> entities, CancellationToken cancellationToken = default);
     }
 }

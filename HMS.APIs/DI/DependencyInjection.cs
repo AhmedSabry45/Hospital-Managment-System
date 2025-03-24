@@ -3,16 +3,21 @@ using FluentValidation.AspNetCore;
 using HMS.Application.Authentication;
 using HMS.Domain.Entities;
 using HMS.Domain.Errors;
+using HMS.Domain.Repositories.Contract;
 using HMS.Infrastructure._Data;
+using HMS.Infrastructure.Repositories;
+using Mapster;
+using MapsterMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Microsoft.TeamFoundation.TestManagement.WebApi;
 using System.Reflection;
 using System.Text;
 
-namespace HMS.APIs.Extensions
+namespace HMS.APIs.DI
 {
     public static class DependencyInjection
     {
@@ -21,7 +26,7 @@ namespace HMS.APIs.Extensions
             services.AddAuthConfig(configuration);
             services.AddFluentValidationConfig();
             services.AddSwaggerServices();
-
+            services.AddMapsterConfig();
 
             services.AddExceptionHandler<GlobalExceptionHandler>();
             services.AddProblemDetails();
@@ -31,12 +36,28 @@ namespace HMS.APIs.Extensions
 
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(connectionString));
+ 
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(HMS.Application.AssemblyReference.Assembly));
+            services.AddValidatorsFromAssembly(HMS.Application.AssemblyReference.Assembly,
+            includeInternalTypes: true);
 
-            //services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
-
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             return services;
         }
+
+        private static IServiceCollection AddMapsterConfig(this IServiceCollection services)
+        {
+            var mappingConfig = TypeAdapterConfig.GlobalSettings;
+            mappingConfig.Scan(Assembly.GetExecutingAssembly());
+
+            services.AddSingleton<IMapper>(new Mapper(mappingConfig));
+
+            return services;
+        }
+
+
         private static IServiceCollection AddFluentValidationConfig(this IServiceCollection services)
         {
             services
