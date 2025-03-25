@@ -15,8 +15,10 @@ namespace HMS.Domain.Errors
 
         public static readonly Error FailedToAdd
             = new("Patient.FailedToAdd", "An Error while Adding Patient", StatusCodes.Status400BadRequest);
-        
-        
+
+        public static readonly Error FailedToUpdate
+            = new("Patient.FailedToUpdate", "An Error while Update Patient", StatusCodes.Status400BadRequest);
+
         public static readonly Error PatientNotFounded
             = new("Patient.NotFounded", "The Patient With this Id is Not Founded", StatusCodes.Status404NotFound);
     }

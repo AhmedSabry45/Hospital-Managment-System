@@ -14,12 +14,7 @@ namespace HMS.Application.Features.Patients.Commands.Create
 
         public async Task<Result<int>> Handle(CreatePatientCommand request, CancellationToken cancellationToken)
         {
-            //if (!Enum.TryParse<Gender>(request.Gender, true, out var genderEnum))
-            //    return Result.Failure<int>(PatientErrors.InvalidGender);
-
             var patient = request.Adapt<Patient>();
-
-            //patient.Gender = genderEnum;
 
             await _unitOfWork.Repository<Patient>().AddAsync(patient, cancellationToken);
 
@@ -29,7 +24,6 @@ namespace HMS.Application.Features.Patients.Commands.Create
                 return Result.Failure<int>(PatientErrors.FailedToAdd);
 
             return Result.Success(patient.Id);
-
         }
     }
 }

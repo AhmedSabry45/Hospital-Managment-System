@@ -21,10 +21,4 @@
     <ProjectReference Include="..\HMS.Repositories\HMS.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Features\Patients\Commands\Update\" />
-    <Folder Include="Features\Patients\Queries\Get\" />
-    <Folder Include="Features\Patients\Queries\List\" />
-  </ItemGroup>
-
 </Project>
