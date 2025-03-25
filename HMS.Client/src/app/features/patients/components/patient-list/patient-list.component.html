@@ -1,1 +1,64 @@
-<p>patient-list works!</p>
+<div class="container">
+  <div class="row mt-4">
+    <div class="col-lg-2" *ngFor="let status of patientStatuses">
+      <div class="card text-white p-3 text-center" [ngStyle]="{ 'background-color': status.color }">
+        <h4>{{ status.name }}</h4>
+        <p class="mt-0 fs-5">{{ status.count }} مريض</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="card p-3 mt-4">
+    <form (submit)="applyFilters($event)">
+      <div class="row g-2">
+        <div class="col-lg-4">
+          <input type="text" class="form-control shadow-none" placeholder="أدخل إسم المريض" [(ngModel)]="filters.name"
+            name="name" />
+        </div>
+        <div class="col-lg-4">
+          <select class="form-select shadow-none" [(ngModel)]="filters.status" name="status">
+            <option value="">كل الحالات</option>
+            <option *ngFor="let status of patientStatuses" [value]="status.name">
+              {{ status.name }}
+            </option>
+          </select>
+        </div>
+        <div class="col-lg-4 d-flex gap-2">
+          <button type="submit" class="btn-blue w-100">تطبيق </button>
+          <button (click)="resetFilters()" class="btn-red w-100">مسح الفلترات</button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <table class="table table-bordered text-center mt-4">
+    <thead>
+      <tr>
+        <th>الرقم</th>
+        <th>الاسم</th>
+        <th>العمر</th>
+        <th>الحالة</th>
+        <th>تفاصيل</th>
+        <th>إجرائات</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let patient of filteredPatients">
+        <td>{{ patient.id }}</td>
+        <td>{{ patient.name }}</td>
+        <td>{{ patient.age }}</td>
+        <td>
+          <p class="badge text-white p-0 p-1" [ngStyle]="{ 'background-color': getStatusColor(patient.status) }">
+            {{ patient.status }}
+          </p>
+        </td>
+        <td>
+          <button class="btn btn-primary">تفاصيل</button>
+        </td>
+        <td>
+          <button class="btn btn-danger">إجراءات</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

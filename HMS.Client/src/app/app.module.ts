@@ -7,6 +7,8 @@ import { HeaderComponent } from './shared/components/header/header.component';
 import { FooterComponent } from './shared/components/footer/footer.component';
 import { HomeComponent } from './features/dashboard/home/home.component';
 import { SidebarComponent } from './shared/components/sidebar/sidebar.component';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -15,10 +17,13 @@ import { SidebarComponent } from './shared/components/sidebar/sidebar.component'
     SidebarComponent,
     FooterComponent,
     HomeComponent,
+
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,1 +1,63 @@
-<p>patient-form works!</p>
+<main id="add-patient">
+  <div class="container mt-5">
+    <form [formGroup]="patientForm" (ngSubmit)="onSubmit()">
+      <div class="row mb-3">
+        <div class="col-lg-6">
+          <label for="patientId" class="form-label">رقم المريض </label>
+          <input type="text" id="patientId" class="form-control shadow-none" formControlName="patientId">
+        </div>
+        <div class="col-lg-6">
+          <label for="patientName" class="form-label">إسم المريض </label>
+          <input type="text" id="patientName" class="form-control shadow-none" formControlName="patientName">
+        </div>
+
+
+      </div>
+
+      <div class="row mb-3">
+        <div class="col-lg-6">
+          <label for="dataType" class="form-label">نوع البيانات <span class="text-danger">*</span></label>
+          <select id="dataType" class="form-select shadow-none" formControlName="dataType">
+            <option value="">اختر نوع البيانات</option>
+            <option value="إسعاف">إسعاف</option>
+            <option value="عيادة">عيادة</option>
+            <option value="طوارئ">طوارئ</option>
+          </select>
+        </div>
+
+      </div>
+
+      <div class="row mb-3">
+        <div class="col-lg-4">
+          <label for="district" class="form-label">الحي</label>
+          <select id="district" class="form-select shadow-none" formControlName="district">
+            <option value="">اختر الحي</option>
+            <option value="حي 1">حي 1</option>
+            <option value="حي 2">حي 2</option>
+          </select>
+        </div>
+        <div class="col-lg-4">
+          <label for="region" class="form-label">المنطقة</label>
+          <select id="region" class="form-select shadow-none" formControlName="region">
+            <option value="">اختر المنطقة</option>
+            <option value="منطقة 1">منطقة 1</option>
+            <option value="منطقة 2">منطقة 2</option>
+          </select>
+        </div>
+        <div class="col-lg-4">
+          <label for="street" class="form-label">الشارع</label>
+          <input type="text" id="street" class="form-control shadow-none" formControlName="street">
+        </div>
+
+      </div>
+
+
+      <div class="row">
+        <div class="col-12">
+          <button type="submit" class="btn-blue">إضافة</button>
+          <button type="button" class="btn-red me-2">إلغاء</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</main>
