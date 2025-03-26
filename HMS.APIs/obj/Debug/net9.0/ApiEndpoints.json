@@ -1,5 +1,89 @@
 [
   {
+    "ContainingType": "HMS.APIs.Controllers.InsuranceController",
+    "Method": "GetAllCategories",
+    "RelativePath": "api/Insurance/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMS.APIs.Controllers.InsuranceController",
+    "Method": "CreateCategory",
+    "RelativePath": "api/Insurance/categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HMS.Application.Features.Insurance.Commands.Create.CreateInsuranceCategoryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMS.APIs.Controllers.InsuranceController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/Insurance/categories/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMS.APIs.Controllers.InsuranceController",
+    "Method": "GetAllCompanies",
+    "RelativePath": "api/Insurance/companies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMS.APIs.Controllers.InsuranceController",
+    "Method": "CreateCompany",
+    "RelativePath": "api/Insurance/companies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HMS.Application.Features.Insurance.Commands.Create.CreateInsuranceCompanyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMS.APIs.Controllers.InsuranceController",
+    "Method": "DeleteCompany",
+    "RelativePath": "api/Insurance/companies/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HMS.APIs.Controllers.PatientsController",
     "Method": "GetAll",
     "RelativePath": "api/Patients",

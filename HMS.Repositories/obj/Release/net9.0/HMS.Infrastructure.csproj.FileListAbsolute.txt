@@ -1,0 +1,16 @@
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\bin\Release\net9.0\HMS.Infrastructure.deps.json
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\bin\Release\net9.0\HMS.Infrastructure.dll
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\bin\Release\net9.0\HMS.Infrastructure.pdb
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\bin\Release\net9.0\HMS.Domain.dll
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\bin\Release\net9.0\HMS.Domain.pdb
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\HMS.Infrastructure.csproj.AssemblyReference.cache
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\HMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\HMS.Infrastructure.AssemblyInfoInputs.cache
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\HMS.Infrastructure.AssemblyInfo.cs
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\HMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\HMS.Infrastructure.sourcelink.json
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\HMS.Infr.D1046C3A.Up2Date
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\HMS.Infrastructure.dll
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\refint\HMS.Infrastructure.dll
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\HMS.Infrastructure.pdb
+D:\Career\Hospital-MS\Hospital-Managment-System\HMS.Repositories\obj\Release\net9.0\ref\HMS.Infrastructure.dll

@@ -178,7 +178,7 @@
             },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
-              "version": "[2.3.0, )"
+              "version": "[2.1.38, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -351,13 +351,9 @@
               "target": "Package",
               "version": "[2.3.0, )"
             },
-            "Microsoft.AspNetCore.Mvc.Core": {
-              "target": "Package",
-              "version": "[2.3.0, )"
-            },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[8.6.1, )"
+              "version": "[8.7.0, )"
             },
             "Microsoft.TeamFoundationServer.Client": {
               "target": "Package",
@@ -365,7 +361,7 @@
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[8.6.1, )"
+              "version": "[8.7.0, )"
             }
           },
           "imports": [
