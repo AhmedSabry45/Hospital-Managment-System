@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Hospital';
+  isSidebarCollapsed: boolean = false;
+
+  onSidebarToggled(isCollapsed: boolean) {
+    this.isSidebarCollapsed = isCollapsed;
+  }
 }

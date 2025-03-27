@@ -1,1 +1,86 @@
-<p>patient-form works!</p>
+<main id="add-patient">
+  <div class="container-fluid mt-5">
+    <form [formGroup]="patientForm" (ngSubmit)="onSubmit()">
+      <div class="row mb-3">
+        <div class="col-lg-6">
+          <label for="patientId" class="form-label">رقم المريض</label>
+          <input type="text" id="patientId" class="form-control shadow-none" formControlName="patientId">
+        </div>
+        <div class="col-lg-6">
+          <label for="patientName" class="form-label">إسم المريض</label>
+          <input type="text" id="patientName" class="form-control shadow-none" formControlName="patientName">
+        </div>
+      </div>
+      <div class="row mb-3">
+        <div class="col-lg-6">
+          <label for="district" class="form-label">البلد</label>
+          <select id="district" class="form-select shadow-none" formControlName="district">
+            <option value="">اختر البلد</option>
+            <option value="مصر">مصر</option>
+            <option value="السعودية">السعودية</option>
+          </select>
+        </div>
+        <div class="col-lg-6">
+          <label for="region" class="form-label">المحافظة</label>
+          <select id="region" class="form-select shadow-none" formControlName="region">
+            <option value="">اختر المحافظة</option>
+            <option value="محافظة 1">محافظة 1</option>
+            <option value="محافظة 2">محافظة 2</option>
+          </select>
+        </div>
+
+      </div>
+      <div class="contact-section">
+        <h5>قائمة الاتصال</h5>
+        <ng-container *ngFor="let contact of contacts; index as i">
+          <div class="row mb-3">
+            <div class="col-lg-6">
+              <label for="Name{{i}}" class="form-label">الاسم الأول</label>
+              <input type="text" id="Name{{i}}" class="form-control shadow-none" [(ngModel)]="contact.Name"
+                name="Name{{i}}">
+            </div>
+            <div class="col-lg-6">
+              <label for="phone{{i}}" class="form-label">الهاتف</label>
+              <input type="text" id="phone{{i}}" class="form-control shadow-none" [(ngModel)]="contact.phone"
+                name="phone{{i}}">
+            </div>
+          </div>
+        </ng-container>
+        <button type="button" class="btn-blue" (click)="addContact()" [disabled]="contacts.length >= 2">إضافة</button>
+      </div>
+
+      <hr />
+
+      <div class="row mb-3">
+        <div class="col-lg-4">
+          <label for="insuranceCompany" class="form-label">شركة التأمين</label>
+          <select id="insuranceCompany" class="form-select shadow-none" formControlName="insuranceCompany">
+            <option value="">اختر شركة التأمين</option>
+            <option value="شركة 1">شركة 1</option>
+            <option value="شركة 2">شركة 2</option>
+          </select>
+        </div>
+        <div class="col-lg-4">
+          <label for="insuranceCategory" class="form-label">فئة التأمين</label>
+          <select id="insuranceCategory" class="form-select shadow-none" formControlName="insuranceCategory">
+            <option value="">اختر فئة التأمين</option>
+            <option value="فئة 1">فئة 1</option>
+            <option value="فئة 2">فئة 2</option>
+          </select>
+        </div>
+        <div class="col-lg-4">
+          <label for="insuranceNumber" class="form-label">رقم التأمين</label>
+          <input type="text" id="insuranceNumber" class="form-control shadow-none" formControlName="insuranceNumber"
+            pattern="[0-9]*">
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12">
+          <button type="submit" class="btn-blue">إضافة</button>
+          <button type="reset" class="btn-red me-2">الغاء</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</main>
