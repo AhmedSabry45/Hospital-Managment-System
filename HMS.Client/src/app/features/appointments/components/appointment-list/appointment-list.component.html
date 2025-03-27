@@ -1,1 +1,65 @@
-<p>appointment-list works!</p>
+<main id="list-patients">
+  <div class="container-fluid">
+    <div class="row mt-4">
+      <div class="col-lg-2" *ngFor="let service of patientServices">
+        <div class="card text-white p-3 text-center" [ngStyle]="{ 'background-color': service.color }">
+          <h4>{{ service.name }}</h4>
+          <p class="mt-0 fs-5">{{ service.count }} مريض</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card p-3 mt-4">
+      <form (submit)="applyFilters($event)">
+        <div class="row g-2">
+          <div class="col-lg-4">
+            <input type="text" class="form-control shadow-none" placeholder="أدخل إسم المريض" [(ngModel)]="filters.name"
+              name="name" />
+          </div>
+          <div class="col-lg-4">
+            <select class="form-select shadow-none" [(ngModel)]="filters.service" name="service">
+              <option value="">كل الخدمات</option>
+              <option *ngFor="let service of patientServices" [value]="service.name">
+                {{ service.name }}
+              </option>
+            </select>
+          </div>
+          <div class="col-lg-4 d-flex gap-2">
+            <button type="submit" class="btn-blue w-100">تطبيق</button>
+            <button (click)="resetFilters()" class="btn-red w-100">مسح الفلترات</button>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <table class="table table-hover text-center mt-4">
+      <thead>
+        <tr>
+          <th>رقم الحجز</th>
+          <th>الإسم</th>
+          <th>الخدمة الطبية</th>
+          <th>العيادة الطبية</th>
+          <th>إجرائات</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let appointment of filteredAppointments">
+          <td>{{ appointment.id }}</td>
+          <td>{{ appointment.name }}</td>
+          <td>
+            <p class="fw-bold" *ngIf="appointment.service" [ngStyle]="{
+                backgroundColor: getServiceColor(appointment.service)
+              }">
+              {{ appointment.service }}
+            </p>
+          </td>
+          <td>{{ appointment.clinic }}</td>
+          <td>
+            <button class="btn btn-link text-primary"><i class="fas fa-edit"></i></button>
+            <button class="btn btn-link text-danger"><i class="fas fa-trash"></i></button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</main>

@@ -4,8 +4,8 @@ import { authGuard } from './core/auth/auth.guard';
 import { HomeComponent } from './features/dashboard/home/home.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/dashboard', pathMatch: 'full' },
-  { path: 'dashboard', component: HomeComponent, canActivate: [authGuard], },
+  { path: '', redirectTo: '/home', pathMatch: 'full' },
+  { path: 'home', component: HomeComponent, canActivate: [authGuard], },
   {
     path: 'patients',
     loadChildren: () => import('./features/patients/patients.module').then(m => m.PatientsModule),

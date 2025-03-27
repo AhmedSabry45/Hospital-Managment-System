@@ -8,30 +8,35 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 })
 export class PatientFormComponent implements OnInit {
   patientForm: FormGroup;
+  contacts = [{ Name: '', email: '', phone: '', mobile: '' }];
 
   constructor(private fb: FormBuilder) {
     this.patientForm = this.fb.group({
-      dataType: ['', Validators.required],
+      patientId: [''],
+      patientName: [''],
+      dataType: [''],
       district: [''],
       region: [''],
-      ward1: [''],
-      ward2: [''],
-      street: [''],
-      patientId: [''],
-      hasComments: [false],
-      comment1: [''],
-      comment2: ['']
+      insuranceCompany: [''],
+      insuranceCategory: [''],
+      insuranceNumber: ['']
     });
   }
+  ngOnInit(): void {
 
-  ngOnInit(): void { }
-
-  onSubmit(): void {
-    if (this.patientForm.valid) {
-      console.log('Form Submitted', this.patientForm.value);
-      // Handle form submission (e.g., send data to a server)
-    } else {
-      console.log('Form is invalid');
+  }
+  addContact() {
+    if (this.contacts.length < 2) {
+      this.contacts.push({ Name: '', email: '', phone: '', mobile: '' });
     }
+  }
+
+  cancel() {
+    this.patientForm.reset();
+    this.contacts = [{ Name: '', email: '', phone: '', mobile: '' }];
+  }
+
+  onSubmit() {
+    console.log('Form Submitted:', this.patientForm.value, this.contacts);
   }
 }

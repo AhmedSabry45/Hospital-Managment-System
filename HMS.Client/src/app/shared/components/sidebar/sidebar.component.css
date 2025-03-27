@@ -26,7 +26,6 @@
 .sidebar.collapsed {
   transition: 0.3s;
   width: 5% !important;
-  /* Adjusted to match the layout */
 }
 
 .toggle-btn {
@@ -82,8 +81,7 @@
 }
 
 .menu a i {
-  margin-right: 10px;
-  /* For RTL, this will be on the left */
+  /* margin-right: 10px; */
 }
 
 .menu a:hover {
