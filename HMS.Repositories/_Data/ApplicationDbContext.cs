@@ -22,6 +22,8 @@ namespace HMS.Infrastructure._Data
         public DbSet<NurseShift> NurseShifts { get; set; }
         public DbSet<DoctorPerformance> DoctorPerformances { get; set; }
         public DbSet<DoctorSchedule> DoctorSchedules { get; set; }
+        public DbSet<Room> Rooms { get; set; }
+        public DbSet<Booking> Bookings { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

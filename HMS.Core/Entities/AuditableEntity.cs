@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HMS.Domain.Entities
 {
-    public class AuditableEntity
+    public class AuditableEntity 
     {
         public string CreatedById { get; set; } = string.Empty;
         public DateTime CreatedOn { get; set; } = DateTime.UtcNow;

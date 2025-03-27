@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Services.Contract\**" />
+    <EmbeddedResource Remove="Services.Contract\**" />
+    <None Remove="Services.Contract\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
     <PackageReference Include="LinqKit.Core" Version="1.2.8" />
     <PackageReference Include="MediatR" Version="12.4.1" />
@@ -17,10 +23,6 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Services.Contract\" />
   </ItemGroup>
 
 </Project>

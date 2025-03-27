@@ -1,9 +1,11 @@
 ﻿using FluentValidation;
 using FluentValidation.AspNetCore;
 using HMS.Application.Authentication;
+using HMS.Application.Services;
 using HMS.Domain.Entities;
 using HMS.Domain.Errors;
 using HMS.Domain.Repositories.Contract;
+using HMS.Domain.Services;
 using HMS.Infrastructure._Data;
 using HMS.Infrastructure.Repositories;
 using Mapster;
@@ -43,6 +45,7 @@ namespace HMS.APIs.DI
 
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IBookingService, BookingService>();
 
             return services;
         }

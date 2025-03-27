@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "HMS.APIs.Controllers.BookingsController",
+    "Method": "Create",
+    "RelativePath": "api/Bookings/rooms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HMS.Application.Features.Bookings.Commands.Create.CreateBookingCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HMS.APIs.Controllers.InsuranceController",
     "Method": "GetAllCategories",
     "RelativePath": "api/Insurance/categories",

@@ -27,7 +27,7 @@ namespace HMS.APIs.Controllers
         {
             var result = await _mediator.Send(command, cancellationToken);
 
-            return result.IsSuccess ? Created("", result.Value) : result.ToProblem();
+            return result.IsSuccess ? CreatedAtAction("", result.Value) : result.ToProblem();
         }
 
         [HttpDelete("categories/{id}")]

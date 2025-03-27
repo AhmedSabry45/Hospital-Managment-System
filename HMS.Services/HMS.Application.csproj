@@ -20,4 +20,11 @@
     <ProjectReference Include="..\HMS.Repositories\HMS.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Bookings\Commands\Delete\" />
+    <Folder Include="Features\Bookings\Commands\Update\" />
+    <Folder Include="Features\Bookings\Queries\Get\" />
+    <Folder Include="Features\Bookings\Queries\GetAll\" />
+  </ItemGroup>
+
 </Project>

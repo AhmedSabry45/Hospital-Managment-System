@@ -10,16 +10,11 @@ namespace HMS.Infrastructure._Data.Configurations
     {
         public void Configure(EntityTypeBuilder<Ward> builder)
         {
-            builder.Property(w => w.Name)
-               .IsRequired()
-               .HasMaxLength(100);
-
-            builder.Property(w => w.Type)
-                   .IsRequired()
-                   .HasMaxLength(150);
+            builder.Property(w => w.Number)
+               .IsRequired();
 
             builder.Property(w => w.Capacity)
-                   .IsRequired();
+                   .IsRequired();   
         }
     }
 }
